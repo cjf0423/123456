@@ -1,5 +1,5 @@
 #!/bin/sh
-# vps重装系统脚本使用方法：wget --no-check-certificate -qO AutoReinstall.sh 'http://git.io/AutoReinstall.sh' && bash AutoReinstall.sh
+# vps重装系统脚本使用方法：wget --no-check-certificate -qO AutoReinstall.sh 'https://raw.githubusercontent.com/cjf0423/123456/master/AutoReinstall.sh' && bash AutoReinstall.sh
 # #国内可用 wget --no-check-certificate -O AutoReinstall.sh https://d.02es.com/AutoReinstall.sh && chmod a+x AutoReinstall.sh && bash AutoReinstall.sh
 
 
