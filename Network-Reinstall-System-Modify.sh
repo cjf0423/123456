@@ -18,7 +18,7 @@
 
 # 使用方法：
 # 【全球CDN加速】
-# wget --no-check-certificate -qO ~/Network-Reinstall-System-Modify.sh 'https://www.cxthhhhh.com/CXT-Library/Network-Reinstall-System-Modify/Network-Reinstall-System-Modify.sh' && chmod a+x ~/Network-Reinstall-System-Modify.sh && bash ~/Network-Reinstall-System-Modify.sh
+# wget --no-check-certificate -qO ~/Network-Reinstall-System-Modify.sh 'https://raw.githubusercontent.com/cjf0423/123456/master/Network-Reinstall-System-Modify.sh' && chmod a+x ~/Network-Reinstall-System-Modify.sh && bash ~/Network-Reinstall-System-Modify.sh
 # 【中国大陆加速】
 # wget --no-check-certificate -qO ~/Network-Reinstall-System-Modify.sh 'https://caoxiaotian.com/CXT-Library/Network-Reinstall-System-Modify/Network-Reinstall-System-Modify.sh' && chmod a+x ~/Network-Reinstall-System-Modify.sh && bash ~/Network-Reinstall-System-Modify.sh
 
